@@ -1,5 +1,5 @@
 
-# Natural Language Processing & Machine Learning 
+# Natural Language Processing & Machine Learning
 
 This repository contains a collection of end-to-end Natural Language Processing (NLP) and Machine Learning projects. It demonstrates a complete lifecycle of AI development—from raw text ingestion and advanced preprocessing to deep learning model architecture and production-ready deployment via APIs.
 
@@ -50,28 +50,43 @@ Leveraging neural networks for complex sequence modeling:
 ## 📂 Project Structure
 
 ```text
-├── packages/               # Source code for custom PyPi packages
-├── classic_ml/             # Regression and Classification implementations
-├── deep_learning/          # ANN, CNN, and LSTM models
-├── nlp_pipelines/          # SpaCy/NLTK preprocessing and NER scripts
-├── deployment/             # Flask API and web application files
-└── data/                   # Dataset references and cleaning scripts
+├── packages/             # Source code for custom PyPi packages
+├── classic_ml/           # Regression and Classification implementations
+├── deep_learning/        # ANN, CNN, and LSTM models
+├── nlp_pipelines/        # SpaCy/NLTK preprocessing and NER scripts
+├── deployment/           # Flask API and web application files
+└── data/                 # Dataset references and cleaning scripts
 
 ```
 
 ## ⚙️ Installation
 
 1. **Clone the repository:**
+
 ```bash
 git clone https://github.com/RutujaKumbhar17/Natural-Language-Processing-in-Python.git
 
 ```
 
-
 2. **Install dependencies:**
+
 ```bash
 pip install -r requirements.txt
 
 ```
 
+---
 
+## 🤝 Connect with Me
+
+I am always open to collaborating on open-source projects or discussing new opportunities in AI/ML.
+
+* **Portfolio:** [rutujakumbhar.netlify.app](https://rutujakumbhar.netlify.app/)
+* **LinkedIn:** [Rutuja Kumbhar](https://www.linkedin.com/in/rutuja-kumbhar-a7311b2a9/)
+* **GitHub:** [@RutujaKumbhar17](https://github.com/RutujaKumbhar17)
+
+---
+
+Developed with ❤️ by [Rutuja Kumbhar](https://rutujakumbhar.netlify.app/)
+
+---
